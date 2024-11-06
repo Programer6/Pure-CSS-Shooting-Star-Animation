@@ -29,9 +29,8 @@ To view the animation:
 
 The HTML structure consists of a `section` element that contains ten `span` elements, each representing a shooting star. These spans are animated using CSS.
 
-```html
-<section>
-    <span></span>
-    <span></span>
-    <!-- ...more spans... -->
-</section>
+## Credit 
+
+- **Background Image:** mage sourced from postimg.cc
+
+## Credit 
