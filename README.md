@@ -33,4 +33,3 @@ The HTML structure consists of a `section` element that contains ten `span` elem
 
 - **Background Image:** mage sourced from postimg.cc
 
-## Credit 
